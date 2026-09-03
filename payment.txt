@@ -1,4 +1,4 @@
-i integrated the payment gateway apis and want to test the payment 
-service
+i integrated the payment gateway apis 
+and want to test the payment service
 had more work to do
-Payment timeout: 30 seconds
+Payment timeout: 45 seconds
