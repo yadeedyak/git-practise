@@ -4,4 +4,5 @@ req :
 2. complete the project
 3. complete the deployment
 4. we are growing bigger
-5.transation process was initiated
+5. transation process was initiated
+6. transaction should get some benifits
