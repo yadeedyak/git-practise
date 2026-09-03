@@ -1,0 +1,5 @@
+req :
+
+1. want nesserary files
+2. complete the project
+3. complete the deployment
